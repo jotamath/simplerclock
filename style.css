@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.digital-clock {
+    width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid azure;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+#clock {
+    font-size: 30px;
+}
